@@ -1,5 +1,7 @@
 # Python-GUI-Plot-Utils
+![Python](https://img.shields.io/badge/Language-Python-blue)<br>
 A collection of simple Python GUI plotting examples / utilities
+<br><br>
 
 <b>amortization_calculator.py</b><br>
 <img src="https://github.com/user-attachments/assets/0b433294-8aa8-4f1d-aaa2-c5a8f17c4c18" alt="amortization_calculator.py">
