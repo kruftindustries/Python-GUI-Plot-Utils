@@ -24,8 +24,9 @@ A collection of simple Python GUI plotting examples / utilities
 <img src="https://github.com/user-attachments/assets/384d2403-d56f-48ac-bec7-2e9cd9320519" alt="violin_plot.py 2">
 <br>
 <b>Mosfet_switching_loss.py</b><br>
+Work in progress...<br>
 ![Image](https://github.com/user-attachments/assets/459a13cc-ff08-449d-8665-7f74347c05fe)
-Exported xlsx file
+Exported xlsx file<br>
 ![Image](https://github.com/user-attachments/assets/8d4d8d4b-c9ca-4a21-9cc0-643c2974f3b1)
-Plot detail
+Plot detail<br>
 ![Image](https://github.com/user-attachments/assets/5ceac9b9-033f-482f-9448-974d1080780d)
