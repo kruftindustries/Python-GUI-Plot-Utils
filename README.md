@@ -8,7 +8,7 @@ A collection of simple Python GUI plotting examples / utilities
 <br>
 <b>reverse_dividend_calculator.py</b><br>
 <img src="https://github.com/user-attachments/assets/334335d6-7815-43db-95de-a545cc6dd24c" alt="reverse_dividend_calculator.py">
-<br>Per-share dividend vs percent dividend
+<br>Per-share dividend vs percent dividend<br>
 <img src="https://github.com/user-attachments/assets/e1a5a30c-abaf-4667-bc6c-b5d78b8cf2ea" alt="reverse_dividend_calculator.py">
 <b>file_info_and_functions.py</b><br>
 <img src="https://github.com/user-attachments/assets/58793846-3b8f-436b-9133-ee3336eff4f0" alt="file_info_and_functions.py 1">
