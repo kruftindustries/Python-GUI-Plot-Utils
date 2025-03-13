@@ -7,7 +7,7 @@ A collection of simple Python GUI plotting examples / utilities
 <img src="https://github.com/user-attachments/assets/0b433294-8aa8-4f1d-aaa2-c5a8f17c4c18" alt="amortization_calculator.py">
 <br>
 <b>reverse_dividend_calculator.py</b><br>
-<img src="https://github.com/user-attachments/assets/6ab67cf3-8996-4a6a-9d73-ff265b5011bc" alt="reverse_dividend_calculator.py">
+<img src="https://github.com/user-attachments/assets/334335d6-7815-43db-95de-a545cc6dd24c" alt="reverse_dividend_calculator.py">
 <br>
 <b>file_info_and_functions.py</b><br>
 <img src="https://github.com/user-attachments/assets/58793846-3b8f-436b-9133-ee3336eff4f0" alt="file_info_and_functions.py 1">
